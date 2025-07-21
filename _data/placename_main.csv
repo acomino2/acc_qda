@@ -1,4 +1,5 @@
 key,city,country,latitude,longitude,comment,annotation
-argamesilla,Argamasilla de Alba,España,39.1292,-3.08889,,Nota de alcance sobre el lugar (no puede quedar en blanco)
-aragon,Aragón,España,41.649693,-0.887712,,Nota de alcance sobre el lugar (no puede quedar en blanco)
-zaragoza,Zaragoza,España,41.649693,-0.887712,,Nota de alcance sobre el lugar (no puede quedar en blanco)
+argamesilla,Argamasilla de Alba,España,391.292,-308.889,,Ciudad en España
+aragon,Aragón,España,41.649.693,-887.712,,Región de España
+zaragoza,Zaragoza,España,41.649.693,-887.712,,Ciudad en España
+sierra,Sierra Morena,España,38.153.102,-3.690.529,,Accidente geográfico
