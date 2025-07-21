@@ -8,41 +8,34 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/nav-menu.html sections="Sobre la edición;Sección 1;Sección 2;Sección 3;" %}
+{% include feature/nav-menu.html sections="Sobre la edición;Personajes;Metaliteratura;" %}
 
 ## Sobre la edición
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi non vehicula purus. Proin nec sem tincidunt, facilisis ligula non, volutpat sapien. Phasellus tempor euismod urna quis consectetur. Quisque porttitor, sapien ac sollicitudin pellentesque, ligula diam porta lectus, non sodales nibh ligula ac ex. Ut aliquet ligula ac metus fringilla tempor. Nullam vel viverra purus. Aenean fermentum, justo eu iaculis imperdiet, ex tellus porttitor mi, vel ullamcorper est risus at lectus. Nulla pulvinar suscipit metus, vel vestibulum erat accumsan in. Morbi vitae suscipit urna. Praesent eget sapien dapibus, hendrerit metus et, consectetur ligula. Aliquam quis consequat tortor. Maecenas vel fermentum ante. Curabitur consequat, quam id consequat tempus, mauris arcu ornare leo, eu egestas urna felis a purus. Aliquam sapien diam, porta ut nibh ut, luctus dignissim dui. Nam iaculis consequat ligula sed pellentesque.
+Eidición elaborada en el marco del curso Curso Open Badge de Experto en Digitalización y Edición Digital ACCESSIBLE TEXTUAL HERITAGE.
 
-## Sección 1
+## Personajes
 
-**Título**
+**Personajes del capítulo 1**
 
-*Ítem en lista*<br/>
-*Ítem en lista*<br/>
-*Ítem en lista*<br/>
+*Don Quijote*<br/>
+*Sancho Panza*<br/>
+*Pedro Pérez*<br/>
+*Maese Nicolás*<br/>
+*Magdalena*<br/>
+*Dorotea*<br/>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi non vehicula purus. Proin nec sem tincidunt, facilisis ligula non, volutpat sapien. Phasellus tempor euismod urna quis consectetur. Quisque porttitor, sapien ac sollicitudin pellentesque, ligula diam porta lectus, non sodales nibh ligula ac ex. Ut aliquet ligula ac metus fringilla tempor. Nullam vel viverra purus. Aenean fermentum, justo eu iaculis imperdiet, ex tellus porttitor mi, vel ullamcorper est risus at lectus. Nulla pulvinar suscipit metus, vel vestibulum erat accumsan in. Morbi vitae suscipit urna. Praesent eget sapien dapibus, hendrerit metus et, consectetur ligula. Aliquam quis consequat tortor. Maecenas vel fermentum ante. Curabitur consequat, quam id consequat tempus, mauris arcu ornare leo, eu egestas urna felis a purus. Aliquam sapien diam, porta ut nibh ut, luctus dignissim dui. Nam iaculis consequat ligula sed pellentesque.
-
-
-## Sección 2
-
-**Título**
-
-*Ítem en lista*<br/>
-*Ítem en lista*<br/>
-*Ítem en lista*<br/>
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi non vehicula purus. Proin nec sem tincidunt, facilisis ligula non, volutpat sapien. Phasellus tempor euismod urna quis consectetur. Quisque porttitor, sapien ac sollicitudin pellentesque, ligula diam porta lectus, non sodales nibh ligula ac ex. Ut aliquet ligula ac metus fringilla tempor. Nullam vel viverra purus. Aenean fermentum, justo eu iaculis imperdiet, ex tellus porttitor mi, vel ullamcorper est risus at lectus. Nulla pulvinar suscipit metus, vel vestibulum erat accumsan in. Morbi vitae suscipit urna. Praesent eget sapien dapibus, hendrerit metus et, consectetur ligula. Aliquam quis consequat tortor. Maecenas vel fermentum ante. Curabitur consequat, quam id consequat tempus, mauris arcu ornare leo, eu egestas urna felis a purus. Aliquam sapien diam, porta ut nibh ut, luctus dignissim dui. Nam iaculis consequat ligula sed pellentesque.
+El nombre de la sobrina difiere del de la obra de Cervantes. 
 
 
-## Sección 3
+## Metaliteratura
 
-**Título**
+**Obras literarias**
 
-*Ítem en lista*<br/>
-*Ítem en lista*<br/>
-*Ítem en lista*<br/>
+*Los Evangelios*<br/>
+*Flos sanctorum*<br/>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi non vehicula purus. Proin nec sem tincidunt, facilisis ligula non, volutpat sapien. Phasellus tempor euismod urna quis consectetur. Quisque porttitor, sapien ac sollicitudin pellentesque, ligula diam porta lectus, non sodales nibh ligula ac ex. Ut aliquet ligula ac metus fringilla tempor. Nullam vel viverra purus. Aenean fermentum, justo eu iaculis imperdiet, ex tellus porttitor mi, vel ullamcorper est risus at lectus. Nulla pulvinar suscipit metus, vel vestibulum erat accumsan in. Morbi vitae suscipit urna. Praesent eget sapien dapibus, hendrerit metus et, consectetur ligula. Aliquam quis consequat tortor. Maecenas vel fermentum ante. Curabitur consequat, quam id consequat tempus, mauris arcu ornare leo, eu egestas urna felis a purus. Aliquam sapien diam, porta ut nibh ut, luctus dignissim dui. Nam iaculis consequat ligula sed pellentesque.
+
+La metaliteratura es una característica del Quijote de Avellaneda.
+
 
